@@ -9,6 +9,6 @@ public class TestController {
 
     @GetMapping
     public String testApp(){
-        return "Welcome to Spring Boot";
+        return "Welcome to Spring Boot V2";
     }
 }
